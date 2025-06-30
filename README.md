@@ -1,4 +1,7 @@
 <h2 align="center">Hi 👋, I'm Kunj Vaghani</h2>
+<p align="center">
+  DSA Enthusiast | Learner Web Developer | MERN Stack Explorer
+</p>
 
 <h4 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&lines=2nd+year+CSE+student+at+SVNIT" alt="Typing SVG" />
