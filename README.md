@@ -4,7 +4,7 @@
 </p>
 
 <h4 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&lines=pre final+year+CSE+student+at+SVNIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&lines=prefinal+year+CSE+student+at+SVNIT" alt="Typing SVG" />
 </h4>
 
 
