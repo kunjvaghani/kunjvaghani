@@ -35,7 +35,7 @@
 ---
 
 ### 🚀 Projects
-<a href = "https://vercel-front-tau.vercel.app/"> <p> click here </p> </a>
+<a href = "https://vercel-front-tau.vercel.app/"> click here </a>
 
 ---
 
