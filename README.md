@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Kunj Vaghani</h2>
 <p align="center">
-  DSA Enthusiast | Learner Web Developer | MERN Stack Explorer
+  DSA Enthusiast | Web Developer | MERN Stack Developer | AI/ML Enthusiast
 </p>
 
 <h4 align="center">
