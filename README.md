@@ -10,8 +10,8 @@
 
 ---
 
-- 🔭 I’m currently working on **MERN Stack Development**
-- 🌱 I’m learning **MongoDB, Express, React, Node.js**
+- 🔭 I’m **MERN Stack Developer**
+- 🌱  **MongoDB, Express, React, Node.js**
 - 💬 Ask me about **DSA, React, Node.js, Express, JavaScript**
 - 📫 Reach me at: [kunjvaghani66@gmail.com](mailto:kunjvaghani66@gmail.com)
 - ⚡ Fun fact: **I don’t always test my code, but when I do, it’s in production 💥**
