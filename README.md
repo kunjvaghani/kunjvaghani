@@ -34,10 +34,7 @@
 
 ---
 
-### 🚀 Projects
-<a href = "https://vercel-front-tau.vercel.app/"> click here </a>
 
----
 
 ### 🎯 Competitive Programming
 <p>
