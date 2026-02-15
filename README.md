@@ -14,6 +14,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Pacman" width="100%" />
 </p>
+
 ---
 
 - 🔭 I’m **MERN Stack Developer**
@@ -26,8 +27,20 @@
 ---
 
 ### 🛠 Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,git,github,tailwind" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase,docker,vercel,netlify" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="Shadcn UI" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ---
