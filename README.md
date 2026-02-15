@@ -7,7 +7,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=435&lines=Prefinal+Year+CSE+student+At+SVNIT" alt="Typing SVG" />
 </h4>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kunjvaghani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Pacman" width="100%" />
+</p>
 ---
 
 - 🔭 I’m **MERN Stack Developer**
@@ -33,8 +39,6 @@
 </p>
 
 ---
-
-
 
 ### 🎯 Competitive Programming
 <p>
