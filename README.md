@@ -22,7 +22,6 @@
 - 💬 Ask me about **DSA, React, Node.js, Express, JavaScript , NextJs , Agentic AI**
 - 📫 Reach me at: [kunjvaghani66@gmail.com](mailto:kunjvaghani66@gmail.com)
 - ⚡ Fun fact: **I don’t always test my code, but when I do, it’s in production 💥**
-- 😄 Pronouns: VK
 
 ---
 
