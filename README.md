@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Kunj Vaghani</h2>
 <p align="center">
-  DSA Enthusiast | Web Developer | MERN Stack Developer| NextJs | AI/ML Enthusiast
+  DSA Enthusiast | Web Developer | MERN & NextJs Developer | AI/ML Enthusiast
 </p>
 
 <h4 align="center">
@@ -17,9 +17,8 @@
 
 ---
 
-- 🔭 I’m **MERN Stack Developer**
-- 🌱  **MongoDB, Express, React, Node.js**
-- 💬 Ask me about **DSA, React, Node.js, Express, JavaScript , NextJs , Agentic AI**
+- 🔭 I’m **MERN & NextJs developer Developer**
+- 💬 Ask me about **DSA, ReactJs, Node.js, ExpressJs, JavaScript , NextJs , Agentic AI , AI/ML , Data Science**
 - 📫 Reach me at: [kunjvaghani66@gmail.com](mailto:kunjvaghani66@gmail.com)
 - ⚡ Fun fact: **I don’t always test my code, but when I do, it’s in production 💥**
 
