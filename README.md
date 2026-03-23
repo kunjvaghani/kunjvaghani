@@ -17,7 +17,7 @@
 
 ---
 
-- 🔭 I’m **MERN & NextJs developer Developer**
+- 🔭 I’m **MERN & NextJs Developer**
 - 💬 Ask me about **DSA, ReactJs, Node.js, ExpressJs, JavaScript , NextJs , Agentic AI , AI/ML , Data Science**
 - 📫 Reach me at: [kunjvaghani66@gmail.com](mailto:kunjvaghani66@gmail.com)
 - ⚡ Fun fact: **I don’t always test my code, but when I do, it’s in production 💥**
